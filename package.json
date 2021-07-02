@@ -1,0 +1,15 @@
+{
+  "name": "webd6201-w2021-week1",
+  "version": "0.0.1",
+  "description": "Demo project for WEBD6201 week 1",
+  "main": "index.js",
+  "repository": "https://github.com/teban004/WEBD6201-W2021-Week1.git",
+  "author": "Esteban Arrangoiz <esteban.arrangoiz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
+  }
+}
