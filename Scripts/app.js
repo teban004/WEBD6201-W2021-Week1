@@ -8,6 +8,13 @@
 	// initialization function
 	function Start() {
 		console.log("App started...");
+
+		let clickMeButton = document.getElementById("clickMeButton");
+
+		clickMeButton.addEventListener("click", ()=>
+		{
+			console.log("Click Me Button was clicked!");
+		})
 	}
 
 	// event listener
